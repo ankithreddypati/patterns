@@ -17,7 +17,12 @@ Patterns is an educational iOS app that explores the concept of pattern recognit
   <img src="Assets/Simulator Screenshot - iPhone 16 Plus - 2025-06-24 at 14.39.08.png" alt="screenshot3" width="200"/>
   <img src="Assets/Simulator Screenshot - iPhone 16 Plus - 2025-06-24 at 14.39.29.png" alt="screenshot4" width="200"/>
   <img src="Assets/Simulator Screenshot - iPhone 16 Plus - 2025-06-24 at 14.39.49.png" alt="screenshot5" width="200"/>
+  <img src="last.png" alt="screenshot6" width="200"/>
 </p>
+
+## Demo Video
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=hhCxY1eRFy4)
 
 ## Requirements
 - iOS 18.0+
